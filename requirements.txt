@@ -1,0 +1,11 @@
+# Recommended tools for development
+Visual Studio Code >= 1.60
+Google Chrome >= 60
+Mozilla Firefox >= 55
+Microsoft Edge >= 16
+Safari >= 11
+Opera >= 47
+
+# Optional tools
+Live Server Extension (VS Code)
+Git >= 2.30
